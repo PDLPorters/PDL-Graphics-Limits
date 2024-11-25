@@ -20,7 +20,6 @@ our @EXPORT = qw(
 our $VERSION = '0.01';
 $VERSION = eval $VERSION;
 
-
 # Preloaded methods go here.
 
 use PDL::Core qw( cat pdl );
